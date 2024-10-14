@@ -21,11 +21,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adarshsharma7/Chat-Application.git
+   https://github.com/adarshsharma7/chat-app
 
 2. Navigate into the project directory:
    ```bash
-  cd Chat-Application
+   cd chat-app
 
 3. Install the dependencies:
    ```bash
@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
  Contributions are welcome! Please feel free to open an issue or submit a pull request.
 
 ## License
- This project is licensed under the MIT License. See the LICENSE file for more details.
+ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Live Demo
  You can view the live demo of the chat application here.
