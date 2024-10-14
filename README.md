@@ -48,5 +48,6 @@ To run this project locally, follow these steps:
  This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Live Demo
- You can view the live demo of the chat application here.
+You can view the live demo of the chat application [here](https://mychat-website.vercel.app/).
+
 
